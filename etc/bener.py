@@ -9,8 +9,8 @@ def bnr():
 {ken}  | \____) | _| |_  _/ /   \ \_  _| |_\/_| |_  
 {kon}   \______.'|_____||____| |____||_____||_____|
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-{kun}[$] Author : {kin}abilseno11
-{kun}[$] Nama SC : {kin}Spam All For One
-{kun}[$] Github : {kin}https://github.com/AbilSeno
-{kun}[$] Youtube : {kin}Nothing
+{kun}[$] Author : {kin}ID Code
+{kun}[$] Nama SC : {kin}Spam Id Code
+{kun}[$] Github : {kin}https://github.com/Id code
+{kun}[$] Youtube : {kin}Id code
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••""")
